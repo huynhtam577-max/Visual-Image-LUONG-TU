@@ -1,0 +1,5 @@
+{
+  "name": "Visual Script Prompter LUONG TU",
+  "description": "An automated workflow tool to convert video scripts into visual prompts using a custom prompt template and the Gemini API.",
+  "requestFramePermissions": []
+}
